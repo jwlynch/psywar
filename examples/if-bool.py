@@ -8,6 +8,9 @@ gets_toaster_p = True
 if gets_toaster_p:
     print("congratulations!")
     print("you get a toaster!")
+else:
+    print("boooo!")
+    print("no toaster for you!")
 print("thanks for using our bank")
 print("enjoy the rest of your day")
 
